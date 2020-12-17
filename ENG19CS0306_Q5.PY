@@ -1,4 +1,3 @@
-
 def uniqueUpdate(data1, data2):
     # Initially empty dictionary
     dupKeys = {}
